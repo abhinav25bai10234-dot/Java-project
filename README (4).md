@@ -1,8 +1,7 @@
 # Agency Client & Campaign Tracker
 
 A command-line Java application that helps a small marketing agency keep track of its clients,
-the campaigns it runs for them, and the invoices it raises. Built for the **Programming in Java**
-flipped-course evaluation.
+the campaigns it runs for them, and the invoices it raises. 
 
 Everything lives in a single file, `Main.java`. There's no database, no internet dependency, and
 no build tool — just the Java standard library.
