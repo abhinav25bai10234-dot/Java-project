@@ -1,7 +1,7 @@
 # Agency Client & Campaign Tracker
 
 A simple command-line Java application to manage clients, campaigns, and invoices for a small
-marketing agency. Built for the **Programming in Java** flipped-course evaluation.
+marketing agency. 
 
 ## Features / Modules
 
